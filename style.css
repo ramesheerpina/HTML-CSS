@@ -5,6 +5,23 @@ body {
     color:white;
 }
 
+main {
+ margin-left: 40px;
+ margin-right:40px;
+ background-color: lightblue;
+ color:black;
+ padding: 20px;
+ padding-top:10px;
+}
+header {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    background-color: lightgreen;
+    border-bottom-width: 2 px;
+    border-bottom-color: orange;
+    border-bottom-style: solid;
+}
 em {
     font-weight: bold;
     color:green;
